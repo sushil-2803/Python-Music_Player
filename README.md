@@ -3,9 +3,10 @@ Basic music player using python.
 
 Application uses Mutagen,Sqlite and Tkinter Python Libraries
 
-pip install mutagen
-pip install sqlite3
-pip install Tkinter
+Installing Libraries On Windows System
+1. pip install mutagen 
+2. pip install sqlite3 
+3. pip install Tkinter 
 
 Features
 1. Basic Play,Pause,Mute,Stop.
